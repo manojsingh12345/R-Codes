@@ -1,0 +1,14 @@
+The exercise revolves around predicting the performance of a robot under varied conditions. 
+The data includes details of some of the equipment used to build the robot. 
+The robot can have different kinds of motors, screws etc. The "class" variable depicts the time required for the system to respond. 
+Objective is to create a linear regression model with high accuracy in predicting the variable “class” given the observations.
+The variables that describe the data set and their values are the following:
+
+[,1]	 Motor	 A,B,C,D,E
+[,2]	 Screw	 A,B,C,D,E
+[,3]	 Pgain	 3,4,5,6
+[,4]	 Vgain	 1,2,3,4,5
+[,5]	 Class	 
+
+
+ 
